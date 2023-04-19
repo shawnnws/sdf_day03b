@@ -1,0 +1,4 @@
+staffNo, fullName, department, role, emailAddress, salary
+100,Shawn,Customer Relation,Relationship Manager,shawn@visa.com,10000
+101,Sean,Operations,Operations Manager,sean@visa.com,10001
+102,Shon,Finance,Finance Manager,shon@visa.com,10002
